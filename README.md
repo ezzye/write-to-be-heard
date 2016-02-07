@@ -10,7 +10,19 @@ One branch per function
 ## Functions
 
 
-Post image to share
+# Post image to share
+Use `https://github.com/lumapps/lumX`
+Add libs folder
+Install jasmine, karma and protractor (using angular-seed)
+Add jshint globals
+Setup protractor tests (e2e-tests/protractor.conf.js, karma.conf.js)
+Add angular.mocks etc to bower.json devDependencies
+npm run update-webdriver
+Add app, app/view and app/component folders
+Add scripts to packaage.json
+
+Add BDD test to setup angular app
+
 
 Tag share on circle it is proposd to share with
 

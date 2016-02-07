@@ -45,10 +45,14 @@
     "velocity": "latest",
     "moment": "latest",
     "bourbon": "latest",
-    "mdi": "1.2.65"
+    "mdi": "1.2.65",
+    "angular-route": "latest",
+    "angular-loader": "latest",
+    "html5-boilerplate": "~5.2.0"
   },
   "devDependencies": {
     "angular-route": "latest",
+    "angular-mocks": "latest",
     "highlightjs": "latest"
   }
 }
